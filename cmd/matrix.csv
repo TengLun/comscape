@@ -1,0 +1,141 @@
+Name,Free App Analytics,Attribution & Analytics,UAP,AppsFlyer,adjust,TUNE,Singular,,,,,,,
+Review,,,,9/18/2018,9/18/2018,9/18/2018,9/18/2018,,Singular,AppsFlyer,Adjust,Tune,,
+FEATURE/PRICING,,,,,,,,,Notes,Notes,Notes,Notes,Datanyze,
+PLANNING,,,,,,,,,,,,,4K accounts by geo,increase +3%
+Media Planning Tools,x - Media Guide,x - Media Guide,x - Media Guide,-,-,x,x,,Global ROI index,,,Mobile Advertising Index,china,
+Robust Campaign Mgmt,x - Power Editor,x - Power Editor,x - Power Editor,x,x,x,Partial,,Cloning of tracker and Campaign,,Campaign Wizard,,US,
+Cross-Platform Routing,x - Smartlink,x - Smartlink,x - Smartlink,x - Onelink,x,x,x,,http://support.apsalar.com/customer/en/portal/articles/1434704-deep-linking-for-your-app,Onelink,Cross platform trackers,,Dashboard,
+Dynamic-Redirect Routing,x - Smartlink,x - Smartlink,x - Smartlink,-,x,x,x,,Dynamic Deferred Deep linking,,Fallback links,,android,
+Fraud Blacklist,x,x,x,x,x,-,-,,For IP's they detect internally,Fraud Blacklist,Fraud Blacklist of IP,,,
+*Traffic Index,x,x,x,x,-,,-,,,Network Performance Index,,,,
+Network Integrations,"3,000+","3,000+","3,000+","2,500+",700+,1000+,1600+,,Networks,Integrations,Integration partners,,,
+Real-time Traffic Verification,-,-,x,x,-,-,-,,,,,,,
+Traffic Import,x,x,x,-,x,x,x,,Traffic Import,,Traffic Import - Migration Tip 1,,,
+Agency Access,x,x,x,x,x,x,-,,,Agency Transparency,Agency,,,
+TARGET,,,,,,,,,,,,,,
+Mobile DMP - Audience Builder & Audience Explorer,x,x,x,-,-,-,-,,https://adexchanger.com/data-exchanges/mobile-dmp-apsalar-wants-pc-linkages-taps-tapad-to-get-them/,,,,,
+ACTIVATE,,,,,,,,,,,,,,
+Custom Data Postbacks (Signals),x - Signals,x - Signals,x - Signals,x,x,x,x,,,Postbacks,Callbacks,,,
+Re-engagement,x,x,x,x,x,x,x,,,Retargeting,Retargeting,reengagement,,
+Audience Builder,x,x,x,x,x,x,,,,Audiences,Aud Builder,Create Segments and Lists,,
+Alerting,x,x,x,x,-,x,x,,,,,Alerting,,
+Push*,x,x,x,- (Integrations 3rd party),- (Integrations 3rd party),x,,,,Push,Push Integration with providers,PUSH,,
+In-App Messages*,-,-,-,-,-,x,,,,,,,,
+MEASURE,,,,,,,,,,,,personalized push,,
+Analytics - Dashboard,x,x,x,x,x,x,x,,,,Reporting (hourly limited 30 days),,,
+Click Log,,,Lifetime,90 days,-,Lifetime,4 days,,,,,,,
+Install Log,,,Lifetime,90 days,-,Lifetime,4 days,,,,,,,
+Event Log,,,Lifetime,90 days,-,Lifetime,24 days,,,,,,,
+Aggregate Data,,,Lifetime,Lifetime,Lifetime,Lifetime,Lifetime,,,,,,,
+Retention Data,,,Lifetime,14 weeks,Lifetime,Lifetime,Lifetime,,,,,,,
+Cohort Data,,,Lifetime,- ,Lifetime,x,x,,,,,,,
+Cross-Device Identity,x - Identity Link,x - Identity Link,x - Identity Link,x,-,x,x,,,,,Cross-Device Attribution,,
+Cross-Device Attribution,,,,,,x,x,,Cross Device Attribution,,,Cross-Device Attribution,,
+iBeacon Signal Support,x,x,x,x,-,-,,,http://support.apsalar.com/customer/en/portal/articles/1546268-configuring-a-custom-user-id,,,,,
+Session Tracking (Duration),x,x,x,x,-,x,x,,,,,Session,,
+Media Cost & ROI,x,x,x,x,x - 27 Partners,x - Multiverse,x,,,,COST,Multiverse,,
+Web SDK (mobile web tracking),-,x,x,#NAME?,#NAME?,#NAME?,#NAME?,,,,,"Native Web App
+Pixel Tracking using Cookies for Attribution",,
+TV Tagging,-,-,x,x,-  ,-  ,-  ,,,TV Attribution,,,,
+Ad Revenue LTV,-,-,x - True LTV,x - (Aggregate only),-,-,-,,,,,,,
+App Store Analytics,N/A,,,"3rd party integration w/ ""TheTool""",-,x,-,,,,,App Store Analytics,,
+Uninstall tracking,x Q4 w/ Push,x Q4 w/ Push,x Q4 w/ Push,x - android,-,-,x - Also does re-install tracking,,https://apsalar.com/2016/12/apsalar-introduces-industrys-first-user-level-reinstall-tracking/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3B4K4PcPUCT9W0KuqCMyOSvA%3D%3D,Uninstall,,,,
+TV Lift ,,,,x,#NAME?,-,,,,TV Attribution,,,,
+OPTIMIZE,,,,,,,,,,,,,,
+Media Optimization Tech,x - Opti Beacon,x - Opti Beacon,x - Opti Beacon,-,-,-,-,,,,,,,
+Configurable attribution,x,x,x,"Click: 
+referrer/ID 1-30d
+Fingerprint fixed 1d
+View-Through: 1hr - 7d","Impression: (1-24 hrs)
+Click: (1-30 days)
+Fingerprint: (1-24 hrs)
+Reattribution: (0-365 days)","Impression: (1-24 hrs)
+Click: (1-30 days)
+Fingerprint: (1-24 hrs)
+Reattribution: (0-365 days)","
+FB Impression:  (1,7, 28 days)
+Device (1-28 days)
+Fingerprinting (fixed 1 day)",,Attribution Methodology,Attribution Settings,Config Attribution settings,,,
+Progressive Reconciliation ,x,x,x,-,-,-,-,,,,,,,
+SAN Claims,x,x,x,x,x,No Facebook,x,,,,,,,
+View-Through Attribution,x,x,x,x,x,No Facebook,x,,,,,,,
+MTA Reporting,-,x,x,x,,x,-,,,MTA,,MTA,,
+Tracker-Level Configuration,-,-,x,-,x,-,-,,,,  Reqs 10K monthly min,,,
+Fingerprint/Impression Equalizer,-,-,x,-,-,-,-,,,,,,,
+Fractional Attribution,,-,x,-,-,-,-,,,,,,,
+Install Reprocessing,-,-,x,x,x,x,x,,,,,,,
+Attribution Settings,,,,,,,,,,,Attribution Settings,,,
+Configurable Click Attribution,,,x,,x,,,,Configuration Attribution Window,,,,,
+Deduplication Window,Lifetime,Lifetime,Lifetime,3 Months,Lifetime,Lifetime,24 Months,,,,,,,
+Impression Attribution,x,x,x,x,x,x,x,,,,,,,
+Customizable Attribution Windows,x,x,x,x,x,x,x,,,,,,,
+Customizable Attribution Windows by Partner,x,x,x,x,x,x,-,,,,,,,
+"Customizable Attribution Windows by Type
+(Disable Fingerprint)",x,x,x,-,x,x,-,,,,,,,
+Business Intelligence Toolset,-,-,x - Kochava Intellignece,x,-,,-,,,Pivot,,,,
+SQL Query,-,-,x - Query,-,-,,x,,,,,,,
+Campaign Back-testing,-,-,x - What If?,-,-,-,-,,,,,,,
+"Modeling (Lookalike, Churn, TV Lift, etc)",Per Model,Per Model,Per Model,-,-,,Lift & revenue,,,,,,,
+FRAUD PREVENTION & DETECTION,,,,,,,,,,,,,,
+Fraud Dashboard,,x,x,x,x,x,-,,Fraud Prevention,Active Fraud Insights,Dashboard,Fraud Reports,,
+Real-time Fraud Abatement,,x,x,x,x,x,x,,"No visualization.
+Free Fraud basic service (install verifcation, IAP verification, IP blacklist)
+",Fraud Abatement,Fraud Callbacks,Fraud Rules,,
+Account Curated Blacklist,,x,x,-,-,-,-,,,,,,,
+Fraud Audit,,x,x,-,x,-,-,,,,,,,
+Fraud Console for Networks,,x,x,-,-,-,-,,,,,,,
+Install Verification (iOS only),,x,x,x,x,x,x,,,,,Install Validation,,
+In-App Receipt Verification,,x,x,x,x,x,x,,,,Purchase Verification,IAP Verification,,
+Fraud Type Detection/Algorithyms,,,12+,,,,,,,,Fraud,,,
+Incentivized Injection Installs (MTTI),,-,Reject,Detect,Reject,Detect,-,,,,Fraud Callbacks,,,
+Install from Fraud IPs,,-,Reject,Reject,-,Detect,Detect,,,,,,,
+Install from Fake Device IDs,,-,Reject,Reject,Reject,-,-,,,Device Rank,,,,
+Ad Stacking Clicks,,-,Reject,-,-,-,-,,,,,,,
+Click Spamming/Flooding*,,-,Reject,Reject,Reject,Detect,-,,,,,,,
+Platform Click/Install Mismatch,,-,Detect,Reject,-,Reject,,,,,,,,
+Anonymous Installs,,-,Reject,-,Reject,-,,,,,,,,
+Geographic Outliers,,-,Reject,Reject,-,Reject,,,,,,,,
+High Click Volume Devices,,-,Reject,-,-,-,,,,,,,,
+High Click Volume IP Addresses,,-,Reject,-,-,-,,,,,,,,
+Mean-Time-to-Install Outliers,,-,Reject,-,-,Detect,,,,,,,,
+Time-to-Install Outliers,,-,Reject,Reject,-,Detect,,,,,,,,
+Time-to-Install Distribution*,,-,Reject,Reject,-,Detect,,,,,,,,
+Non-Verified Install Receipts,,-,Reject,Reject,Reject,Reject,,,,,,,,
+Non-Verified Purchase Receipts,,-,Reject,Reject,Reject,Reject,Reject,,,Fraud Dashboard,,,,
+Multi-Hash Attribution Matches,,-,Reject,-,-,,,,,,,,,
+New Device %*,,-,Reject,Detect,Reject,-,,,,,,,,
+Non Playstore Installs,,-,-,,-,,,,,,,,,
+OTHER FACTORS,,,,,,,,,,,,,,
+Data Privacy Certification,,,,x,x,x,x,,SOC-2 certified facility,Data Privacy,Compliance,,,
+Server Uptime,,,"SLA is 99.9998%
+2015-2017 100%",x,Dropped to 99.9% from 99.97%,,,,,,Server Uptime,,,
+Dedication Account Management,support ticket,Dedicated,Dedicated,No (7 day SLA).  Yes for Premium/enterprise,"Business Pro
+Enterprise",,Dedicated,,,,,,,
+API Data Quering,,,,,No restrictions,restrictions,restrictions,,API restrictions,,,,,
+iOS 10.3 Security issue ,,x,*x,x,x,-,,,,,iOS 10.3,,,
+MTA Probabilistic (location & device),,,-,-,-,-,-,,,,,,,
+A/B testing for App Store Creative,,,,"3rd party integration w/ ""TheTool""",-,x,x,,,,,AB Testing,,
+Custom Dashboards,,,,No,-,,-,,,,,,,
+Hero Feature,,,Traffic Verifier & Collective,Uninstall Tracking & Pivot Reports,Audience Builder & Campaign Wizard,Unlimited Data Storage,Data Aggregation into Single dashboard,,,,Campaign Wizard,,,
+Pricing,,,,".03 install enterprise
+.06 install business pro
+.08 install business
+.09 Install basic",".03 install enterprise
+.06 install business pro
+.08 install business
+.09 Install basic","Clicks
+Impression",,,,Pricing,Pricing,Pricing,,
+CAPITAL RAISED,,,,83M,"Total 28.9M
+ (last 17M Oct 2015)",36.4,22M total;,,"Does not include unknow $$ in Singular Acquisition 
+22M total;
+Nov 2015 - 8M
+Aug 2013 - 9M
+Sep 2011 - 5M","http://fortune.com/2017/01/17/appsflyer-funding/
+""83M total;
+Jan 2017 - 56M
+Jan 2015 - 20M
+Mar 2014 - 7.1M""",,"Dec 2014 27M
+May 2013  9.4M",,
+Product Releases,,,,,,,,,,Product Releases,,Product Releases,,
+,,,,,,,,,,,,,,
+Blue Cell indicates recent product change ,,,,,,,,,,,,,,

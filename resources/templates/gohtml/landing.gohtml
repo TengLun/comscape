@@ -1,0 +1,28 @@
+{{ define "landing" }}
+<!DOCTYPE html>
+
+<html>
+<head>
+
+</head>
+<body>
+<h1>Comscape</h1>
+<h2>Kochava Competitive Landscape</h2>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+  {{ if .Competitors }}
+    {{ range .Competitors}}
+      {{ template "competitor" . }}
+    {{ end }}
+  {{ end }}
+<p>
+<p>
+<p>
+</body>
+</html>
+
+{{ end }}

@@ -1,0 +1,16 @@
+List competitors
+  - About section
+    > Name, Address, Primary LinkedIn Profile?
+    > Logo
+  - Datanyze
+  - Google Alerts Api
+  - Saleforce (?)
+  - Are they up?
+    > Uptime monitoring
+  - Google Sheet Processing
+    > Feature section
+    > Kill shots
+
+
+
+RD2 instance stores information on which competitors
